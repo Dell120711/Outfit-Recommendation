@@ -14,7 +14,7 @@
 * **搭配歷史紀錄**：使用者可以隨時查看過去的穿搭組合，並收藏自己喜愛的搭配。
 * **回饋機制**：使用者可對推薦結果提供意見回饋，協助系統持續優化與精進。
 
-## 技術棧 (Tech Stack)
+## Tech Stack
 
 * **前端框架**：Next.js, Tailwind CSS, ShadCN
 * **後端架報**：Next.js
@@ -26,23 +26,9 @@
 
 ## 核心技術 (Core Technology)
 
-我們的軟體核心在於利用先進的大型語言模型（LLMs），對使用者上傳的照片進行深度分析並生成穿搭推薦。以下是系統運作的簡要概述：
+我們的軟體核心在於利用LLM，對使用者上傳的照片進行深度分析並生成穿搭推薦
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+以下是系統運作的簡要概述：
 
 Core Technology
 Our software utilizes advanced language models to analyze and recommend outfits based on user-uploaded photos. Here’s a brief overview of how it works:
