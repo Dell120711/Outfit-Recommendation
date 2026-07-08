@@ -2,6 +2,29 @@
 
 ## Directory Structure
 
+Getting Started
+Follow these steps to set up the project locally:
+
+Clone the repository:
+```
+git clone git@github.com:rmmfj/outfit-recommendation-app.git
+cd outfit-recommendation-app
+```
+Install dependencies:
+```
+yarn
+```
+Set up environment variables: Create a .env.local file in the root directory and add your environment variables.
+
+DATABASE_URL=your_database_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_database_anon_key
+NEXT_PUBLIC_OPENAI_API_KEY=your_api_key
+Run the development server:
+```
+yarn dev
+```
+Open your browser: Navigate to http://localhost:3000 to see the app in action.
+
 ```
 /public
 ├── images
