@@ -1,23 +1,6 @@
 # Outfit-Recommendation
 
-utfit Recommendation App
-Introduction
-The Outfit Recommendation App enhances the shopping experience by providing personalized outfit suggestions based on the user’s uploaded clothing photos and personal data. Leveraging advanced algorithms, this software analyzes users' style, body measurements, and preferences, offering suitable outfit recommendations for various occasions.
 
-Features
-Photo Upload: Users can upload photos of their clothing items (e.g., pants, skirts).
-Outfit Recommendations: The system recommends matching tops or bottoms based on the uploaded photos.
-User Profiles: Users can register, log in, and edit their profiles.
-Outfit History: Users can view past outfit combinations and save their favorites.
-Feedback: Users can provide feedback on the recommendations to improve the system.
-Tech Stack
-Frontend: Next.js, Tailwind CSS, ShadCN
-Backend: Next.js
-Database: Supabase
-Authentication: OAuth
-Testing: Playwright
-Version Control: Git Flow
-Deployment: Vercel
 
 
 
