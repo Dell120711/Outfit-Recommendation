@@ -30,7 +30,7 @@ cd outfit-recommendation-app
 ```
 yarn
 ```
-3.Set up environment variables: Create a .env.local file in the root directory and add your environment variables.
+3.Set up environment variables: Create a `.env.local` file in the root directory and add your environment variables.
 
 ```env
 DATABASE_URL=your_database_url
